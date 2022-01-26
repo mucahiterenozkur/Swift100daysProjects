@@ -1,5 +1,5 @@
-Storm Viewer
+Storm Viewer with Shareable Photos
 
-To give you an idea of how far I've come, here are just some of the things I've covered: table views and image views, app bundles, FileManager, typecasting, view controllers, storyboards, outlets, Auto Layout, UIImage, and more.
+UIBarButtonItem and UIActivityViewController are covered.
 
-![new](https://user-images.githubusercontent.com/59232592/151076190-adb06594-5ade-4052-9a75-d4289cffc51b.gif)
+![ezgif-7-b1cbcf52fd](https://user-images.githubusercontent.com/59232592/151229782-63279415-00f9-436d-bae1-7aec41881c63.gif)
