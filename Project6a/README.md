@@ -1,5 +1,6 @@
-# README
+# Project 6a Technical
 
-Lots of people email me, tweet me, or file issues on GitHub saying that this directory contains project 2 rather than project 6. If you're considering doing this, please stop and read the book: project 6 is a technique project that adjusts project 2.
+It's all about making the screen fit in landscape and portrait mode.
 
-So: everything is correct; please do not email me about this.
+<img width="354" alt="Ekran Resmi 2022-01-30 14 19 58" src="https://user-images.githubusercontent.com/59232592/151697683-a5cf0d9a-edfc-4e87-808c-2e41a78ae33b.png">
+<img width="719" alt="Ekran Resmi 2022-01-30 14 20 28" src="https://user-images.githubusercontent.com/59232592/151697701-00d10721-6a20-4595-92cf-03aef74b9fc4.png">
